@@ -1,0 +1,19 @@
+{
+  "name": "compactar-arquivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compactar.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon compactar.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}
