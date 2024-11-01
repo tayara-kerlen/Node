@@ -2,7 +2,7 @@
   "name": "http-api",
   "version": "1.0.0",
   "main": "api.js",
-   "type": "module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon api.js"
   },
